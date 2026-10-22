@@ -1,0 +1,24 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example
+.pytest_cache/
+.vscode/
+
+# Python cache
+__pycache__/
+
+# Virtual environments
+.venv/
+venv/
+
+# Generated session data and logs
+data/logs/
+
+# Local configuration and secrets
+.env
+.env.*
+!.env.example
